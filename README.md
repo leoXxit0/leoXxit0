@@ -9,7 +9,6 @@
 
 ![Banner](banner1.png)
 
----
 ## <div align="center">📚 Formacion Academica y Certificaciones</div>
 
 <div align="center">
@@ -24,7 +23,11 @@
 | **Sistemas** | Linux & Ciberseguridad |
 
 </div>
+<div align="center">
+  
 # MIS PORYECTOS:
+
+</div>
 
 <div align="center">
 
