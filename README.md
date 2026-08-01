@@ -7,4 +7,4 @@
 
 </div>
 
-![Banner](assets/banner.png)
+![Banner](banner.png)
