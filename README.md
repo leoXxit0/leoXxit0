@@ -1,10 +1,8 @@
 <div align="center">
 
-# HOLA BIENVENIDO!
+# 👋 HOLA BIENVENIDO!
 
-# Eleonor Arias H 
-# Redes IP | Ciberseguridad | Cumplimiento Normativo
+# Eleonor Arias.
+# 🌐 Redes IP | 🛡️ Ciberseguridad | 📋 Cumplimiento Normativo
 
 </div>
-
-![Banner](banner.png)
