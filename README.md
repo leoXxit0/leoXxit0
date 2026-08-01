@@ -10,6 +10,21 @@
 ![Banner](banner1.png)
 
 ---
+## <div align="center">📚 Formacion Academica y Certificaciones</div>
+
+<div align="center">
+
+| Area | Formacion |
+|------|-----------|
+| **Informatica** | Tecnico en Informatica y Seguridad Host (Linux, Windows) |
+| **Redes IP** | Tecnico en Redes IP - Protocolos, VLAN, Router, Firewall, Antivirus, DNS, VPN |
+| **Inteligencia Artificial** | Programa en IA Generativa - UNMSM | IA Generativa - Microsoft |
+| **Negocios** | Negocios - Harvard Business School |
+| **Derecho** | Licenciatura en Derecho |
+| **Sistemas** | Linux & Ciberseguridad |
+
+</div>
+# MIS PORYECTOS:
 
 <div align="center">
 
