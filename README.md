@@ -1,4 +1,5 @@
-## HOLA BIENVENIDO! 👋
-# Eleonor | Redes IP · Ciberseguridad · Infraestructura TI
+# HOLA BIENVENIDO! 👋
+## Eleonor Arias
+## Redes IP & Ciberseguridad
 
 ![Banner](banner.png)
