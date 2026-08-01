@@ -3,6 +3,7 @@
 # 👋 HOLA BIENVENIDO!
 
 # Eleonor Arias.
-# 🌐 Redes IP | 🛡️ Ciberseguridad | 📋 Cumplimiento Normativo
+# 🌐 Redes IP | 🛡️ Ciberseguridad | 📋 Compliance
 
 </div>
+![Banner](banner.png)
