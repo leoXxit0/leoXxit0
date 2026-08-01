@@ -2,7 +2,7 @@
 
 # 👋 HOLA BIENVENIDO!
 
-# Soy Eleonor Arias :D
+## Soy Eleonor Arias :D
 # 🌐 Redes IP | 🛡️ Ciberseguridad | 📋 Compliance
 
 </div>
