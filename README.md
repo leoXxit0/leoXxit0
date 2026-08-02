@@ -31,7 +31,7 @@
 | **Informatica** | Tecnico en Informatica y Seguridad Host (Linux, Windows) |
 | **Redes IP** | Tecnico en Redes IP - Protocolos, VLAN, Router, Firewall, Antivirus, DNS, VPN |
 | **Inteligencia Artificial** | Programa en IA Generativa - UNMSM | IA Generativa - Microsoft |
-| **Negocios** | Programa en Negocios de Harvard Business School |
+| **Negocios** | Programa en Negocios de Harvard Business School Online | Beca Santander |
 | **Derecho** | Licenciatura en Derecho |
 | **Sistemas** | Linux & Ciberseguridad |
 
