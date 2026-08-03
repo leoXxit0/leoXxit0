@@ -1,11 +1,3 @@
-<div align="center">
-
-# 👋 HOLA BIENVENIDO!
-
-## Soy Eleonor Arias :D
-# 🌐 Redes IP | 🛡️ Ciberseguridad | 📋 Compliance
-
-</div>
 
 ![Banner](banner.svg)
 
