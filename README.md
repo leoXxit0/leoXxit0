@@ -1,5 +1,5 @@
 
-![Banner](banner.svg)
+![Banner](banner.png)
 
 <div align="center">
   
