@@ -1,0 +1,75 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#1C3049"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" fill="#0A1420"/>
+  <rect width="1280" height="320" fill="url(#grid)" opacity="0.55"/>
+
+  <rect x="0" y="0" width="6" height="320" fill="#C9A24B"/>
+
+  <g stroke="#2E6E73" stroke-width="1" opacity="0.4" fill="none">
+    <line x1="900" y1="60" x2="1010" y2="40"/>
+    <line x1="900" y1="60" x2="960" y2="130"/>
+    <line x1="960" y1="130" x2="1080" y2="120"/>
+    <line x1="1080" y1="120" x2="1010" y2="40"/>
+    <line x1="1080" y1="120" x2="1150" y2="86"/>
+    <line x1="960" y1="130" x2="940" y2="220"/>
+    <line x1="940" y1="220" x2="1060" y2="250"/>
+    <line x1="1080" y1="120" x2="1180" y2="200"/>
+    <line x1="1180" y1="200" x2="1060" y2="250"/>
+    <line x1="1010" y1="40" x2="1150" y2="86"/>
+  </g>
+  <g fill="#35C4B8" opacity="0.75">
+    <circle cx="900" cy="60" r="3"/>
+    <circle cx="1010" cy="40" r="3"/>
+    <circle cx="960" cy="130" r="3"/>
+    <circle cx="1080" cy="120" r="3"/>
+    <circle cx="940" cy="220" r="3"/>
+    <circle cx="1060" cy="250" r="3"/>
+    <circle cx="1180" cy="200" r="3"/>
+  </g>
+
+  <g transform="translate(1150,86)">
+    <circle r="46" fill="none" stroke="#C9A24B" stroke-width="1.5" opacity="0.85"/>
+    <circle r="35" fill="none" stroke="#C9A24B" stroke-width="1" opacity="0.5"/>
+    <g stroke="#C9A24B" stroke-width="1.5" opacity="0.85">
+      <line x1="0" y1="-46" x2="0" y2="-40"/>
+      <line x1="0" y1="46" x2="0" y2="40"/>
+      <line x1="-46" y1="0" x2="-40" y2="0"/>
+      <line x1="46" y1="0" x2="40" y2="0"/>
+      <line x1="-32.5" y1="-32.5" x2="-28.3" y2="-28.3"/>
+      <line x1="32.5" y1="-32.5" x2="28.3" y2="-28.3"/>
+      <line x1="-32.5" y1="32.5" x2="-28.3" y2="28.3"/>
+      <line x1="32.5" y1="32.5" x2="28.3" y2="28.3"/>
+    </g>
+    <g stroke="#EAD9A8" stroke-width="1" opacity="0.9" fill="none">
+      <line x1="-14" y1="-6" x2="0" y2="10"/>
+      <line x1="0" y1="10" x2="15" y2="-8"/>
+      <line x1="-14" y1="-6" x2="15" y2="-8"/>
+    </g>
+    <g fill="#EAD9A8">
+      <circle cx="-14" cy="-6" r="2.3"/>
+      <circle cx="0" cy="10" r="2.3"/>
+      <circle cx="15" cy="-8" r="2.3"/>
+    </g>
+  </g>
+
+  <text x="80" y="76" font-family="Courier New, monospace" font-size="13" letter-spacing="5" fill="#35C4B8">PERFIL PROFESIONAL</text>
+
+  <text x="80" y="140" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700" letter-spacing="1.5" fill="#F4F6F8">Eleonor Arias</text>
+
+  <text x="80" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#8CA3B8">Abogada &#183; Redes &amp; Ciberseguridad</text>
+
+  <line x1="80" y1="200" x2="700" y2="200" stroke="#1C3049" stroke-width="1"/>
+
+  <text x="80" y="234" font-family="Courier New, monospace" font-size="15" letter-spacing="2" fill="#D7DEE6">REDES IP</text>
+  <line x1="190" y1="216" x2="190" y2="240" stroke="#2A3F56" stroke-width="1"/>
+  <text x="210" y="234" font-family="Courier New, monospace" font-size="15" letter-spacing="2" fill="#D7DEE6">CIBERSEGURIDAD</text>
+  <line x1="400" y1="216" x2="400" y2="240" stroke="#2A3F56" stroke-width="1"/>
+  <text x="420" y="234" font-family="Courier New, monospace" font-size="15" letter-spacing="2" fill="#D7DEE6">COMPLIANCE</text>
+
+  <text x="1200" y="292" text-anchor="end" font-family="Courier New, monospace" font-size="13" letter-spacing="1" fill="#5C7A93">@leonXxit0</text>
+</svg>
