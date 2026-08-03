@@ -3,15 +3,19 @@
 
 <div align="center">
   
-## 🛠️ Mis Proyectos
+🛠️ **Mis Proyectos**
 
-</div>
+🔭 **Proyecto actual:** *WiFi Handshake Auditor* — Herramienta de seguridad ofensiva para auditoría WPA2.  
+   - Configuración de adaptador WiFi (RTL88x2bu) en modo monitor sobre Linux.  
+   - Captura y análisis de handshakes en redes con SSID oculto.  
+   - Implementación de ataques de diccionario con *aircrack-ng* para validación de robustez de contraseñas.  
+   - Enfoque en evaluaciones de seguridad inalámbrica y hardening de redes WiFi.
+   - **Otros Proyectos:** Segmentación de Redes y Firewalls en Cisco Packet Tracer + Cumplimiento Normativo.
 
-- 🔭 Actualmente desarrollando proyectos de **Segmentación de Redes y Firewalls** en Cisco Packet Tracer
-- 🌱 Profundizando en **Análisis de Vulnerabilidades, Hardening de Sistemas y Seguridad Perimetral**
-- 💬 Consultoría en **Diseño de redes IPv4/IPv6, Subnetting, VLANs, Enrutamiento estático y dinámico (OSPF)**
-- 🛡️ Implementación de **políticas de acceso (ACLs) y seguridad en capa de red**
-- 📡 Experiencia en **resolución de incidencias N1/N2, configuración de servidores DHCP/DNS y mantenimiento de infraestructura**
+🌱 **Profundizando en:**  
+   - Análisis de vulnerabilidades y hardening de sistemas (Linux/Windows).  
+   - Seguridad perimetral y detección de intrusiones.  
+   - Técnicas de pentesting inalámbrico y evaluación de riesgos en capa física.
 
 
 ## <div align="center">📚 Formacion Academica y Certificaciones</div>
