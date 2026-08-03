@@ -4,7 +4,6 @@
 <div align="center">
   
 ## 🛠️ Mis Proyectos
-
 ---
 
 </div>
@@ -30,6 +29,8 @@ Diseño e implementación de una red empresarial segmentada lógicamente para un
 
 ---
 
+[![Banner Proyecto 2](https://github.com/leoXxit0/Auditoria-de-Seguridad-WiFi-con-Aircrack-ng/raw/main/bannerp.png)](https://github.com/leoXxit0/Auditoria-de-Seguridad-WiFi-con-Aircrack-ng)
+
 📡 **Proyecto 2: WiFi Handshake Auditor**  
 *Pentesting inalámbrico | RTL88x2bu | Aircrack-ng*
 
@@ -39,6 +40,12 @@ Herramienta de seguridad ofensiva para auditoría de redes WPA2, enfocada en eva
 - ✅ Captura y análisis de handshakes WPA2, incluyendo redes con SSID oculto.
 - ✅ Ataques de diccionario con aircrack-ng para validación de fortaleza de claves.
 - ✅ Enfoque en hardening de redes inalámbricas y evaluación de riesgos en capa física.
+
+[![Ver Repositorio](https://img.shields.io/badge/🔗_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/Auditoria-de-Seguridad-WiFi-con-Aircrack-ng)
+
+**Tecnologías:** `Linux` `Aircrack-ng` `RTL88x2bu` `Wireshark` `Modo Monitor`
+
+**Descripción rápida:** Proyecto de seguridad ofensiva que documenta la configuración de hardware, captura de handshakes WPA2 (incluso con SSID oculto) y ataques de diccionario para evaluar la robustez de contraseñas en redes inalámbricas.
 
 ---
 
