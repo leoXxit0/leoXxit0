@@ -1,7 +1,13 @@
 
 ![Banner](perfil.png)
 
+<div align="center">
+  
 Construyendo puentes entre el **Derecho** y la **Tecnología** | Protegiendo datos con redes seguras y políticas claras.
+
+</div>
+
+---
 
 <div align="center">
   
