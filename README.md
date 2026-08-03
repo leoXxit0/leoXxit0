@@ -22,6 +22,12 @@ Diseño e implementación de una red empresarial segmentada lógicamente para un
 - ✅ Servidores (MAIL, BACKUP, FILES) en VLAN separada con acceso desde todos los departamentos.
 - ✅ Objetivo: garantizar confidencialidad, aislamiento de fallos y control centralizado.
 
+[![Ver Repositorio](https://img.shields.io/badge/🔗_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/red-segmentada-firewall-vlans)
+
+**Tecnologías:** `Cisco Packet Tracer` `VLANs` `ACLs` `IPv4` `Firewall`
+
+**Descripción rápida:** Implementación de una red PYME con departamentos (RRHH, Auditoría, Legal, Dirección) aislados mediante VLANs y políticas de acceso con firewall, garantizando confidencialidad y control centralizado.
+
 ---
 
 📡 **Proyecto 2: WiFi Handshake Auditor**  
@@ -33,12 +39,6 @@ Herramienta de seguridad ofensiva para auditoría de redes WPA2, enfocada en eva
 - ✅ Captura y análisis de handshakes WPA2, incluyendo redes con SSID oculto.
 - ✅ Ataques de diccionario con aircrack-ng para validación de fortaleza de claves.
 - ✅ Enfoque en hardening de redes inalámbricas y evaluación de riesgos en capa física.
-
-[![Ver Repositorio](https://img.shields.io/badge/🔗_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/red-segmentada-firewall-vlans)
-
-**Tecnologías:** `Cisco Packet Tracer` `VLANs` `ACLs` `IPv4` `Firewall`
-
-**Descripción rápida:** Implementación de una red PYME con departamentos (RRHH, Auditoría, Legal, Dirección) aislados mediante VLANs y políticas de acceso con firewall, garantizando confidencialidad y control centralizado.
 
 ---
 
