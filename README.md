@@ -1,7 +1,6 @@
 
 ![Banner](perfil.png)
 
-⚖️ **Asesoría Legal** | 🌐 **Diseño de Redes** | 🔐 **Auditoría de Ciberseguridad**
 Construyendo puentes entre el **Derecho** y la **Tecnología** | Protegiendo datos con redes seguras y políticas claras.
 
 <div align="center">
