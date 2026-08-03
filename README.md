@@ -49,17 +49,6 @@ Herramienta de seguridad ofensiva para auditoría de redes WPA2, enfocada en eva
 
 ---
 
-<div align="center">
-
-## 🌱 Profundizando en:
-
-</div>
-  
-   - Análisis de vulnerabilidades y hardening de sistemas (Linux/Windows).  
-   - Seguridad perimetral y detección de intrusiones.  
-   - Técnicas de pentesting inalámbrico y evaluación de riesgos en capa física.
-
-
 ## <div align="center">📚 Formacion Academica y Certificaciones</div>
 
 <div align="center">
