@@ -1,7 +1,9 @@
 
 ![Banner](perfil.png)
   
-🛠️ **Mis Proyectos**
+## <div align="center">🛠️ Mis Proyectos
+
+<div align="center">
 
 🔭 **Proyecto actual:** *WiFi Handshake Auditor* — Herramienta de seguridad ofensiva para auditoría WPA2.  
    - Configuración de adaptador WiFi (RTL88x2bu) en modo monitor sobre Linux.  
@@ -10,7 +12,10 @@
    - Enfoque en evaluaciones de seguridad inalámbrica y hardening de redes WiFi.
    - **Otros Proyectos:** Segmentación de Redes y Firewalls en Cisco Packet Tracer + Cumplimiento Normativo.
 
-🌱 **Profundizando en:**  
+## <div align="center"> 🌱 Profundizando en:
+
+<div align="center">
+  
    - Análisis de vulnerabilidades y hardening de sistemas (Linux/Windows).  
    - Seguridad perimetral y detección de intrusiones.  
    - Técnicas de pentesting inalámbrico y evaluación de riesgos en capa física.
