@@ -1,7 +1,5 @@
 
 ![Banner](perfil.png)
-
-<div align="center">
   
 🛠️ **Mis Proyectos**
 
