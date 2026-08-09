@@ -57,6 +57,21 @@ Herramienta de seguridad ofensiva para auditoría de redes WPA2, enfocada en eva
 **Descripción rápida:** Proyecto de seguridad ofensiva que documenta la configuración de hardware, captura de handshakes WPA2 (incluso con SSID oculto) y ataques de diccionario para evaluar la robustez de contraseñas en redes inalámbricas.
 
 ---
+🔑 **Proyecto 3: Generador de Contraseñas Seguras (pypher-password)**
+*Python | Tkinter | Ciberseguridad*
+
+Aplicación de escritorio para generar contraseñas robustas y aleatorias, diseñada para ayudar a crear credenciales seguras que cumplan con políticas de complejidad.
+
+- ✅ **Interfaz gráfica (GUI):** Desarrollada con Tkinter para ser fácil de usar.
+- ✅ **Personalización de la contraseña:** Permite al usuario seleccionar la longitud y los tipos de caracteres a incluir (mayúsculas, minúsculas, números, símbolos).
+- ✅ **Cálculo de entropía:** Muestra la fortaleza de la contraseña generada en tiempo real.
+- ✅ **Copiado al portapapeles:** Función para copiar la contraseña de forma segura y usarla inmediatamente.
+
+**Tecnologías:** `Python` `Tkinter` `Seguridad Informática` `Desarrollo de Herramientas`
+
+**Descripción rápida:** Generador de contraseñas con interfaz gráfica que permite personalizar la complejidad y visualizar la fortaleza de la clave, facilitando la creación de credenciales seguras.
+
+---
 
 ## <div align="center">📚 Formacion Academica y Certificaciones</div>
 
