@@ -69,6 +69,8 @@ Aplicación de escritorio para generar contraseñas robustas y aleatorias, dise�
 - ✅ **Cálculo de entropía:** Muestra la fortaleza de la contraseña generada en tiempo real.
 - ✅ **Copiado al portapapeles:** Función para copiar la contraseña de forma segura y usarla inmediatamente.
 
+[![Ver Repositorio](https://img.shields.io/badge/🔗_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/pypher-password)
+
 **Tecnologías:** `Python` `Tkinter` `Seguridad Informática` `Desarrollo de Herramientas`
 
 **Descripción rápida:** Generador de contraseñas con interfaz gráfica que permite personalizar la complejidad y visualizar la fortaleza de la clave, facilitando la creación de credenciales seguras.
