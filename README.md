@@ -4,7 +4,6 @@
   
 Construyendo puentes entre el **Derecho** y la **Tecnología** | Protegiendo datos con redes seguras y políticas claras.
 - 📧 **Email:** elarhuaa@gmail.com
-
 </div>
 
 ---
