@@ -13,6 +13,16 @@
 ---
 
 <div align="center">
+  <i>Construyendo puentes entre el Derecho y la Tecnología</i>
+  <br>
+  <i>Protegiendo datos con redes seguras y políticas claras</i>
+</div>
+
+<br>
+
+---
+
+<div align="center">
   
 ## 🛠️ Mis Proyectos
 ---
