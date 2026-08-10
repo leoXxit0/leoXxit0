@@ -11,7 +11,6 @@
 <br>
 
 ---
-
 <div align="center">
   <i>Construyendo puentes entre el Derecho y la Tecnología</i>
   <br>
@@ -21,8 +20,22 @@
 <br>
 
 ---
+## 🌷 Sobre mí
 
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU5ZWhwdDd1a2xrN2lncjVpNXRkYzA4ZnRqamR5d3IydWg5Z2NpNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaCwsTlA4hO/giphy.gif" width="70" align="left"/>
+</div>
+
+⚖️ **Abogada** de profesión, apasionada por el Derecho Digital y la Protección de Datos.  
+🔐 **Estudiante de Ciberseguridad** y Redes, convencida de que el conocimiento técnico fortalece la defensa legal.  
+🐧 **Linux Lover** desde siempre — porque la libertad y el control empiezan en la terminal.  
+
+> *"La ley protege los datos, pero el código los defiende"* 🌸
+
+
+<div align="center">
+
+---
   
 ## 🛠️ Mis Proyectos
 ---
