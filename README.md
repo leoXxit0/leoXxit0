@@ -8,11 +8,11 @@ Construyendo puentes entre el **Derecho** y la **Tecnología** | Protegiendo dat
 
 <div align="center">
   <img src="https://img.shields.io/badge/-✉️%20elarhuaa@gmail.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4"/>
+
 </div>
+
 ---
-  
 ## 🛠️ Mis Proyectos
----
 
 </div>
 
