@@ -53,10 +53,10 @@ Herramienta de seguridad ofensiva para auditoría de redes WPA2, enfocada en eva
 ---
 [![Banner Proyecto 1](https://github.com/leoXxit0/pypher-password/blob/main/Banner.png)](https://github.com/leoXxit0/pypher-password)
 
-🔑 **Proyecto 3: Generador de Contraseñas Seguras (pypher-password)**
+🔑 **Proyecto 3: Generador y Analizador de Contraseñas Seguras (pypher-password)**
 *Python | Tkinter | Ciberseguridad*
 
-Aplicación de escritorio para generar contraseñas robustas y aleatorias, diseñada para ayudar a crear credenciales seguras que cumplan con políticas de complejidad.
+Aplicación de escritorio para generar y analizar contraseñas robustas y aleatorias, diseñada para ayudar a crear credenciales seguras que cumplan con políticas de complejidad.
 
 - ✅ **Interfaz gráfica (GUI):** Desarrollada con Tkinter para ser fácil de usar.
 - ✅ **Personalización de la contraseña:** Permite al usuario seleccionar la longitud y los tipos de caracteres a incluir (mayúsculas, minúsculas, números, símbolos).
