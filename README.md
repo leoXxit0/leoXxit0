@@ -5,12 +5,6 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=⚖️%20Abogada;🔐%20Ciberseguridad;🐧%20Linux%20Lover" alt="Typing SVG" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://img.shields.io/badge/-✉️%20elarhuaa@gmail.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4"/>
 </div>
 
