@@ -39,7 +39,7 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 `Python` `Tkinter`
 > Aplicación de escritorio con interfaz gráfica que genera contraseñas personalizables y calcula su entropía en tiempo real para facilitar la creación de credenciales seguras.
 
-[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/NOMBRE_DEL_REPO) <!-- CAMBIA ESTE LINK -->
+[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/pypher-password)
 
 ---
 
