@@ -1,4 +1,4 @@
-# 👋 Hola, soy leoXxit0
+# 👋 Hola, soy Eleonor (πnk)
 
 **Abogada | Ciberseguridad | Redes**
 
