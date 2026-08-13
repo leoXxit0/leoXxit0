@@ -45,4 +45,4 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 ### 📫 Conectemos
 
 [![GitHub](https://img.shields.io/badge/GitHub-leoXxit0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/leoXxit0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-leoXxit0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleonor-a-4a07822ab?utm_source=share_via&utm_content=profile&utm_medium=member_android) <!-- Reemplaza con tu URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eleonor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleonor-a-4a07822ab?utm_source=share_via&utm_content=profile&utm_medium=member_android)
