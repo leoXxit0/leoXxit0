@@ -1,4 +1,4 @@
-# 👋 Hola, soy Eleonor
+# 👋 Hola, soy leoXxit0
 
 **Abogada | Ciberseguridad | Redes**
 
@@ -23,13 +23,23 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 `Cisco Packet Tracer` `ACLs`
 > Diseño de red empresarial con departamentos aislados (RRHH, Auditoría, Legal, Dirección) mediante VLANs y control de acceso granular con ACLs para garantizar confidencialidad.
 
+[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/NOMBRE_DEL_REPO) <!-- CAMBIA ESTE LINK -->
+
+---
+
 **2. WiFi Handshake Auditor**
 `Linux` `Aircrack-ng` `RTL88x2bu`
 > Herramienta de pentesting inalámbrico para capturar handshakes WPA2 (incluso con SSID oculto) y realizar ataques de diccionario, evaluando la robustez de contraseñas.
 
+[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/NOMBRE_DEL_REPO) <!-- CAMBIA ESTE LINK -->
+
+---
+
 **3. Generador de Contraseñas Seguras (pypher-password)**
 `Python` `Tkinter`
 > Aplicación de escritorio con interfaz gráfica que genera contraseñas personalizables y calcula su entropía en tiempo real para facilitar la creación de credenciales seguras.
+
+[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/NOMBRE_DEL_REPO) <!-- CAMBIA ESTE LINK -->
 
 ---
 
@@ -44,5 +54,5 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 
 ### 📫 Conectemos
 
-[![GitHub](https://img.shields.io/badge/GitHub-leoXxit0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/leoXxit0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eleonor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleonor-a-4a07822ab?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![GitHub](https://img.shields.io/badge/GitHub-leoXxit0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-leoXxit0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleonor-a-4a07822ab?utm_source=share_via&utm_content=profile&utm_medium=member_android)
