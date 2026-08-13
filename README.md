@@ -4,7 +4,9 @@
 
 Soy abogada de formación y apasionada por la ciberseguridad. Mi enfoque combina el conocimiento legal con habilidades técnicas avanzadas para desarrollar soluciones de seguridad ofensiva y defensiva. Me especializo en el análisis de redes IP y la creación de herramientas de pentesting que ayudan a fortalecer infraestructuras críticas.
 
-### 🛠️ Habilidades Técnicas y Profesionales
+<div align="center">
+  
+### Habilidades Técnicas y Profesionales
 
 | Área | Habilidades Clave |
 | :--- | :--- |
@@ -15,7 +17,7 @@ Soy abogada de formación y apasionada por la ciberseguridad. Mi enfoque combina
 | **Sistemas Operativos** | Administración y hardening de sistemas **Linux** y **Windows**. Configuración de entornos para pruebas de seguridad. |
 | **Competencias Legales** | Asesoría en cumplimiento normativo, protección de datos, análisis de riesgos legales en entornos tecnológicos. |
 
-
+</div>
 ---
 <div align="center">
   
