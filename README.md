@@ -66,7 +66,7 @@ Herramienta de seguridad ofensiva para auditoría de redes WPA2, enfocada en eva
 **Descripción rápida:** Proyecto de seguridad ofensiva que documenta la configuración de hardware, captura de handshakes WPA2 (incluso con SSID oculto) y ataques de diccionario para evaluar la robustez de contraseñas en redes inalámbricas.
 
 ---
-[![Banner Proyecto 1](https://github.com/leoXxit0/pypher-password/blob/main/banner.png)](https://github.com/leoXxit0/pypher-password)
+[![Banner Proyecto 1](https://github.com/leoXxit0/pypher-password/blob/main/assets/banner.png)](https://github.com/leoXxit0/pypher-password)
 
 🔑 **Proyecto 3: Generador y Analizador de Contraseñas Seguras (pypher-password)**
 *Python | Tkinter | Ciberseguridad*
