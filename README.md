@@ -1,6 +1,6 @@
 # 👋 Hola, soy Eleonor
 
-**Abogada | Ciberseguridad | Redes **
+**Abogada | Ciberseguridad | Redes**
 
 Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o automatización que necesites para tu seguridad host.
 
