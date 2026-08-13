@@ -12,7 +12,7 @@ Soy abogada de formación y apasionada por la ciberseguridad. Mi enfoque combina
 | :--- | :--- |
 | **Ciberseguridad Ofensiva** | Pentesting inalámbrico (WPA2), Análisis de Handshakes, Ataques de Diccionario con `Aircrack-ng`, Auditoría de Seguridad en Capa Física. |
 | **Redes e Infraestructura IP** | Diseño y Segmentación de Redes (VLANs), Configuración de Firewalls y ACLs, Protocolos (TCP/IP, DNS, VPN), Routing y Switching, Cisco Packet Tracer. |
-| **Desarrollo de Herramientas** | Programación en **Python** para ciberseguridad, Desarrollo de aplicaciones con interfaz gráfica (**Tkinter**), Automatización de tareas de seguridad. |
+| **Desarrollo de Herramientas** | Programación en **Python** para ciberseguridad, Desarrollo de aplicaciones con interfaz gráfica GUI/CLI, Automatización de tareas de seguridad. |
 | **Ciencia de Datos** | **Business Intelligence (Power BI)**: Creación de dashboards interactivos y análisis de datos para la toma de decisiones estratégicas. (Diplomado - Edutin) |
 | **Sistemas Operativos** | Administración y hardening de sistemas **Linux** y **Windows**. Configuración de entornos para pruebas de seguridad. |
 | **Competencias Legales** | Asesoría en cumplimiento normativo, protección de datos, análisis de riesgos legales en entornos tecnológicos. |
@@ -26,7 +26,6 @@ Soy abogada de formación y apasionada por la ciberseguridad. Mi enfoque combina
 
 </div>
 
-[![Banner Proyecto 1](https://github.com/leoXxit0/red-segmentada-firewall-vlans/raw/main/banner.png)](https://github.com/leoXxit0/red-segmentada-firewall-vlans)
 
 🔐 **Proyecto 1: Segmentación de Red PYME con VLANs y Firewall**  
 *Cisco Packet Tracer | ACLs | Seguridad perimetral*
@@ -47,8 +46,6 @@ Diseño e implementación de una red empresarial segmentada lógicamente para un
 
 ---
 
-[![Banner Proyecto 2](https://github.com/leoXxit0/Auditoria-de-Seguridad-WiFi-con-Aircrack-ng/raw/main/bannerp.png)](https://github.com/leoXxit0/Auditoria-de-Seguridad-WiFi-con-Aircrack-ng)
-
 📡 **Proyecto 2: WiFi Handshake Auditor**  
 *Pentesting inalámbrico | RTL88x2bu | Aircrack-ng*
 
@@ -66,7 +63,7 @@ Herramienta de seguridad ofensiva para auditoría de redes WPA2, enfocada en eva
 **Descripción rápida:** Proyecto de seguridad ofensiva que documenta la configuración de hardware, captura de handshakes WPA2 (incluso con SSID oculto) y ataques de diccionario para evaluar la robustez de contraseñas en redes inalámbricas.
 
 ---
-[![Banner Proyecto 1](https://github.com/leoXxit0/pypher-password/blob/main/assets/banner.png)](https://github.com/leoXxit0/pypher-password)
+
 
 🔑 **Proyecto 3: Generador y Analizador de Contraseñas Seguras (pypher-password)**
 *Python | Tkinter | Ciberseguridad*
