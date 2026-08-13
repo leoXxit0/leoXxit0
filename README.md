@@ -4,8 +4,21 @@
 
 Soy abogada de formación y apasionada por la ciberseguridad. Mi enfoque combina el conocimiento legal con habilidades técnicas avanzadas para desarrollar soluciones de seguridad ofensiva y defensiva. Me especializo en el análisis de redes IP y la creación de herramientas de pentesting que ayudan a fortalecer infraestructuras críticas.
 
----
+### 🛠️ Habilidades Técnicas y Profesionales
 
+| Área | Habilidades Clave |
+| :--- | :--- |
+| **Ciberseguridad Ofensiva** | Pentesting inalámbrico (WPA2), Análisis de Handshakes, Ataques de Diccionario con `Aircrack-ng`, Auditoría de Seguridad en Capa Física. |
+| **Redes e Infraestructura IP** | Diseño y Segmentación de Redes (VLANs), Configuración de Firewalls y ACLs, Protocolos (TCP/IP, DNS, VPN), Routing y Switching, Cisco Packet Tracer. |
+| **Desarrollo de Herramientas** | Programación en **Python** para ciberseguridad, Desarrollo de aplicaciones con interfaz gráfica (**Tkinter**), Automatización de tareas de seguridad. |
+| **Ciencia de Datos** | **Business Intelligence (Power BI)**: Creación de dashboards interactivos y análisis de datos para la toma de decisiones estratégicas. (Diplomado - Edutin) |
+| **Sistemas Operativos** | Administración y hardening de sistemas **Linux** y **Windows**. Configuración de entornos para pruebas de seguridad. |
+| **Competencias Legales** | Asesoría en cumplimiento normativo, protección de datos, análisis de riesgos legales en entornos tecnológicos. |
+
+
+---
+<div align="center">
+  
 ## 🛠️ Mis Proyectos
 
 </div>
