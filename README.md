@@ -18,6 +18,7 @@ Soy abogada de formación y apasionada por la ciberseguridad. Mi enfoque combina
 | **Competencias Legales** | Asesoría en cumplimiento normativo, protección de datos, análisis de riesgos legales en entornos tecnológicos. |
 
 </div>
+
 ---
 <div align="center">
   
