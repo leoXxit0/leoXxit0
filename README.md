@@ -37,7 +37,7 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 
 **3. Generador de Contraseñas Seguras (pypher-password)**
 `Python` `Tkinter`
-> Aplicación de escritorio con interfaz gráfica que genera contraseñas personalizables y calcula su entropía en tiempo real para facilitar la creación de credenciales seguras.
+> Pypher es una herramienta de línea de comandos diseñada para cubrir todo el ciclo de vida de la gestión de contraseñas: generación segura, análisis de fortaleza, estadísticas avanzadas, wordlists personalizadas y almacenamiento local.
 
 [![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/pypher-password)
 
