@@ -1,4 +1,4 @@
-# 👋 Hola, soy Eleonor (πnk)
+**👋 Hola, soy Eleonor (πnk)**
 
 **Abogada | Ciberseguridad | Redes**
 
