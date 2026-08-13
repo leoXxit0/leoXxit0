@@ -23,7 +23,7 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 `Cisco Packet Tracer` `ACLs`
 > Diseño de red empresarial con departamentos aislados (RRHH, Auditoría, Legal, Dirección) mediante VLANs y control de acceso granular con ACLs para garantizar confidencialidad.
 
-[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/red-segmentada-firewall-vlan)
+[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/red-segmentada-firewall-vlans)
 
 ---
 
