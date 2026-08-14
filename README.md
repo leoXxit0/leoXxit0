@@ -35,7 +35,7 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 
 ---
 
-**3. Pypher: Generador y Analizador de Contraseñas CLI / GUI**
+**3. Pypher: Generador y Analizador de Contraseñas CLI**
 `Python` `Tkinter`
 > Pypher es una herramienta de línea de comandos diseñada para cubrir todo el ciclo de vida de la gestión de contraseñas: generación segura, análisis de fortaleza, estadísticas avanzadas, wordlists personalizadas y almacenamiento local.
 
