@@ -41,8 +41,6 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 
 [![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/pypher-password)
 
-[![Ver Video](https://img.shields.io/badge/▶️_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/cVQPtshZwiw?si=kaZ1NrBWo-FztUMp)
-
 ---
 
 ### 📚 Formación
