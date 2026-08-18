@@ -29,7 +29,7 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 
 **2. WiFi Handshake Auditor**
 `Linux` `Aircrack-ng` `RTL88x2bu`
-> Herramienta de pentesting inalámbrico para capturar handshakes WPA2 (incluso con SSID oculto) y realizar ataques de diccionario, evaluando la robustez de contraseñas.
+> Auditoría de Seguridad WiFi: Captura de Handshake WPA2 con SSID Oculto y Ataque de Diccionario + Instalacion de Drivers para la configuracion de un Adaptador WIFI/USB de pentesting inalámbrico para capturar handshakes WPA2 (SSID oculto) y realizar ataques de diccionario, evaluando la robustez de contraseñas.
 
 [![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/Auditoria-de-Seguridad-WiFi-con-Aircrack-ng)
 
