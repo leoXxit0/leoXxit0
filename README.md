@@ -35,11 +35,10 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 
 ---
 
-**3. Pypher: Generador y Analizador de Contraseñas CLI**
-`Python` `Tkinter`
-> Pypher es una herramienta de línea de comandos diseñada para cubrir todo el ciclo de vida de la gestión de contraseñas: generación segura, análisis de fortaleza, estadísticas avanzadas, wordlists personalizadas y almacenamiento local.
+### 🧰 Mis herramientas para Ciberseguridad
 
-[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/pypher-password)
+- **[Pypher](https://github.com/leoXxit0/pypher-password)** `Python` `Tkinter` — Generador y analizador de contraseñas seguras (fortaleza, wordlists, estadísticas).
+- **[Chmod Permission Calculator](https://github.com/leoXxit0/chmod-permission-calculator)** `Python` — Calculadora de notación octal de permisos Linux (chmod).
 
 ---
 
