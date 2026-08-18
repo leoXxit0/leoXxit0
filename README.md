@@ -37,8 +37,8 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 
 ### 🧰 Mis herramientas para Ciberseguridad
 
-- **[Pypher](https://github.com/leoXxit0/pypher-password)** `Python` `Tkinter` — Generador y analizador de contraseñas seguras (fortaleza, wordlists, estadísticas).
-- **[Chmod Permission Calculator](https://github.com/leoXxit0/chmod-permission-calculator)** `Python` — Calculadora de notación octal de permisos Linux (chmod).
+- **[Pypher](https://github.com/leoXxit0/pypher-password)** `Python` — Generador y analizador de contraseñas seguras (fortaleza, wordlists, estadísticas).
+- **[Chmod Permission Calculator](https://github.com/leoXxit0/chmod-permission-calculator)** `Python` `Tkinter` — Calculadora de notación octal de permisos Linux (chmod).
 
 ---
 
