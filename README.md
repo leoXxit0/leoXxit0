@@ -44,10 +44,12 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 
 ### 📚 Formación
 
-*   **Técnico en Informática y Redes IP** (Host Linux/Windows, VLANs, Firewall, VPN)
-*   **Licenciatura en Derecho**
+*   **Técnico en Informática y Redes IP** - ACADEMICA LABS
+*   **Licenciatura en Derecho** - UMA
 *   **Programa en IA Generativa** - UNMSM
 *   **Programa en Negocios** - Harvard Business School Online
+*   **Especializacion en Ciberseguridad** - UNEWEB (En progreso)
+*   **Cursos especializados en Linux** - Hak4u
 
 ---
 
