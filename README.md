@@ -46,10 +46,10 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 
 *   **Técnico en Informática y Redes IP** - ACADEMICA LABS
 *   **Licenciatura en Derecho** - UMA
-*   **Programa en IA Generativa** - UNMSM
-*   **Programa en Negocios** - Harvard Business School Online
 *   **Especializacion en Ciberseguridad** - UNEWEB (En progreso)
 *   **Cursos especializados en Linux** - Hak4u
+*   **Programa en IA Generativa** - UNMSM
+*   **Programa en Negocios** - Harvard Business School Online
 
 ---
 
