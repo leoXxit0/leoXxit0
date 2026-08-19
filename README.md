@@ -31,11 +31,13 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 `Linux` `Aircrack-ng` `RTL88x2bu`
 > Auditoría de Seguridad WiFi: Captura de Handshake WPA2 con SSID Oculto y Ataque de Diccionario + Instalacion de Drivers para la configuracion de un Adaptador WIFI/USB de pentesting inalámbrico para capturar handshakes WPA2 (SSID oculto) y realizar ataques de diccionario, evaluando la robustez de contraseñas.
 
+[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/Auditoria-de-Seguridad-WiFi-con-Aircrack-ng)
+
 **Segmentación de Red para Cumplimiento Normativo (ISO 27001)** 
 `Cisco Packet Tracer` `ACLs` `ISO 27001`
 > Diseñar e implementar una arquitectura de red corporativa segura, aplicando el principio de "Mínimo Privilegio" y "Privacidad por Diseño", alineada con los estándares internacionales de ciberseguridad y protección de datos.
 
-[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/Auditoria-de-Seguridad-WiFi-con-Aircrack-ng)
+[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoXxit0/red-segmentada-cumplimiento)
 
 ---
 
