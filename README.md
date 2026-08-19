@@ -19,7 +19,7 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 
 ### 🛠️ Proyectos Destacados
 
-**1. Segmentación de Red PYME con VLANs y Firewall**
+**Segmentación de Red PYME con VLANs y Firewall**
 `Cisco Packet Tracer` `ACLs`
 > Diseño de red empresarial con departamentos aislados (RRHH, Auditoría, Legal, Dirección) mediante VLANs y control de acceso granular con ACLs para garantizar confidencialidad.
 
@@ -27,7 +27,7 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 
 ---
 
-**2. WiFi Handshake Auditor**
+**WiFi Handshake Auditor**
 `Linux` `Aircrack-ng` `RTL88x2bu`
 > Auditoría de Seguridad WiFi: Captura de Handshake WPA2 con SSID Oculto y Ataque de Diccionario + Instalacion de Drivers para la configuracion de un Adaptador WIFI/USB de pentesting inalámbrico para capturar handshakes WPA2 (SSID oculto) y realizar ataques de diccionario, evaluando la robustez de contraseñas.
 
