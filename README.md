@@ -50,6 +50,7 @@ Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o aut
 
 ### 📚 Formación
 
+*   **Linux Essentials y Linux Unhatched** - Cisco Networking Academy
 *   **Técnico en Informática y Redes IP** - ACADEMICA LABS
 *   **Licenciatura en Derecho** - UMA
 *   **Especializacion en Ciberseguridad** - UNEWEB (En progreso)
