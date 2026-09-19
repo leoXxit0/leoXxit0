@@ -2,18 +2,7 @@
 
 **Abogada | Ciberseguridad | Redes**
 
-Mi fuerte son las Redes IP y la seguridad host, puedo crear la herramienta o automatización que necesites para tu seguridad host.
-
----
-
-### ⚡ Habilidades Clave
-
-| Área | Habilidades |
-| :--- | :--- |
-| **Ciberseguridad** | Pentesting inalámbrico (WPA2), Aircrack-ng, Análisis de Handshakes, Hardening Linux/Windows. |
-| **Redes IP** | VLANs, Firewalls/ACLs, Routing & Switching, Cisco Packet Tracer, TCP/IP, DNS, VPN. |
-| **Desarrollo** | Python (Automatización, GUI/CLI), Tkinter. |
-| **Datos & Legal** | Power BI (Dashboards), Asesoría en Cumplimiento Normativo y Protección de Datos. |
+Mi fuerte es el Pentesting Web y el posicionamiento en google, puedo crear la herramienta o automatización que necesites para tu seguridad host.
 
 ---
 
