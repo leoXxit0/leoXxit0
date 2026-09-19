@@ -1,6 +1,6 @@
 **👋 Hola, soy Eleonor (πnk)**
 
-**Abogada | Ciberseguridad | Redes**
+**Informatica | Ciberseguridad | Redes**
 
 Mi fuerte es el Pentesting Web y el posicionamiento en google, puedo crear la herramienta o automatización que necesites para tu seguridad host.
 
