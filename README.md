@@ -2,7 +2,7 @@
 
 **Informatica | Ciberseguridad | Redes**
 
-Mi fuerte es el Pentesting Web y el posicionamiento en google, puedo crear la herramienta o automatización que necesites para tu seguridad host.
+Mi fuerte es el es la creacion de landing pages y sitios web seguros, especialista en ciberseguridad y pentesting.
 
 ---
 
