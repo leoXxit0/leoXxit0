@@ -1,6 +1,6 @@
 **👋 Hola, soy Eleonor (πnk)**
 
-**Informatica | Ciberseguridad | Redes**
+**Informatica | Ciberseguridad | Vibe Coding**
 
 Mi fuerte es el es la creacion de landing pages y sitios web seguros, especialista en ciberseguridad y pentesting.
 
